@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a capstone project from Udemy course. Created resume only using HTML.
+This Capstone Project 1 from Udemy course. Created resume only using HTML.
 
 ## Deployed Website
 https://benjaminescobar1.github.io/Capstone-Project-Resume/
